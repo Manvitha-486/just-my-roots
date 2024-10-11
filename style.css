@@ -1,0 +1,288 @@
+*{
+    margin:0;
+    padding :0;
+    font-family:'poppins',sans-serif;
+    box-sizing:border-box;
+}
+
+
+img{
+    
+    cursor:pointer;
+    height:60px;
+    width:130px;
+    margin-left: 40px;
+    margin top:0px;
+    
+}
+.location{
+    height:10px;
+    width:10px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+    cursor:pointer;
+
+}
+.hyderabad-button{
+background-color: #fff;
+color:rgb(157, 3, 3);
+border:none;
+cursor:pointer;
+font-size:xx-small;
+font-weight:bold;
+margin-top:0px;
+margin-left:50px;
+
+}
+.Nonveg-button{
+    background-color:#fff;
+    color:#000;
+    border:none;
+    margin-left:100px;
+    cursor:pointer;
+    font-size:xx-small;
+    margin-top:0px;
+
+
+}
+.slider{
+    height:10px;
+    width:15px;
+    margin-left:0;
+    cursor:pointer;
+    font-size:xx-small;
+    margin-top:0px;
+}
+.veg-button{
+    background-color:#fff;
+    color:#000;
+    border:none;
+    cursor:pointer;
+    font-size:xx-small;
+}
+.state{
+height:30px;
+width:25px;
+cursor:pointer;
+margin-left:10px;
+}
+.globe{
+    height:10px;
+    width:15px;
+    cursor:pointer;
+    margin-left:5px;
+}
+.international-button{
+    background-color: #fff;
+    color:rgb(157, 3, 3);
+    border:none;
+    cursor:pointer;
+    margin-left: 0px;
+    font-size:xx-small;
+    font-weight:bold;
+    
+}
+.offer{
+    height:10px;
+    width:15px;
+    cursor:pointer;
+    margin-left: 5px;
+}
+.offer-button{
+    background-color: #fff;
+    color:#000;
+    border:none;
+    margin-left:0px;
+    cursor:pointer;
+    font-size:xx-small;
+    font-weight:bold;
+}
+.guest{
+    height:10px;
+    width:10px;
+    margin-left:5px;
+    cursor:pointer;
+    
+
+}
+.hello-button{
+    background-color: #fff;
+    color: #000;
+    cursor:pointer;
+    border:none;
+    font-size:xx-small;
+    font-weight:bold;
+
+}
+.guest-button{
+    background-color:#fff;
+    color:rgb(157, 3, 3);
+    border:none;
+    cursor: pointer;
+    font-size:xx-small;
+    font-weight:bold;
+    margin-left: 0px;;
+}
+.cart-button{
+    background-color: #fff;
+    color: #000;
+    border:none;
+    cursor:pointer;
+    font-size:xx-small;
+    margin-left: 15px;
+    font-weight:bold;
+
+
+}
+.cart{
+    height:10px;
+    width:15px;
+    margin-left:0px;
+}
+
+.search-bar{
+    width:850px;
+    margin-left:0px;
+    margin-top:20px;
+    
+}
+.search-bar{
+font: inherit;
+color: currentColor;
+width: 80%;
+border: #000 solid;
+height: 1.1876em;
+margin: 0;
+display: block;
+padding: 6px 0 7px;
+background: none;
+box-sizing: content-box;
+letter-spacing: inherit;
+margin-left: 50px;
+margin-top: 20px;
+border-radius:5px;
+}
+.jmr-locations{
+    margin-left:300px;
+    margin-top: 15px;
+    font-size:larger;
+}
+.jmr{
+
+font-weight: bolder;
+}
+.active{
+font-weight:bolder;
+color:rgb(157, 3, 3);
+}
+.location{
+    font-weight:bolder;
+    cursor:auto;
+}
+.map{
+height:350px;
+width:300px;
+margin-left:50px;
+cursor:auto;
+}
+.cities{
+    border: 2px solid #6f2d2d;
+    padding: 15px 20px;
+    border-radius: 30px;
+    width:300px;
+    height:300px;
+   
+}
+.footer{
+    background-color: #a5a0a0cf;
+    color:#000;
+
+}
+.jss106 {
+    width: 100%;
+    margin: 0px auto;
+    overflow: hidden;
+    max-width: 1064px;
+}
+.jss117 {
+    display: grid;
+    column-gap: 60px;
+    grid-template-columns: 1fr 1fr;
+}
+.jss118 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.jss116 {
+    border: 2px solid #818181;
+    padding: 15px 20px;
+    border-radius: 30px;
+}
+.jss116 ul {
+    margin: 0;
+    padding: 0;
+}
+.jss116 ul li {
+    cursor: pointer;
+    display: inline-block;
+    font-size: 17px;
+    min-width: 30%;
+    font-weight: bold;
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+.jss119 {
+    display: grid;
+    margin-top: 10px;
+}
+.footer-search{
+    margin-left:300px;
+    width:300px;
+}
+.statement{
+    margin-left: 320px;
+    font-size:x-small;
+    font-weight: bold;
+    margin-top:10px;
+}
+.follow{
+    margin-left: 200px;
+    font-size: x-small;
+}
+.col-md-3{
+    width:100%;
+}
+.submit{
+    margin-left: 0px;
+    background-color:rgb(157, 3, 3);
+    color:#fff;
+    border:none;
+    border-radius: 20px;
+    width:50px;
+    height:25px;
+}
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
